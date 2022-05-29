@@ -9,3 +9,4 @@ SQLAlchemy==1.4.32
 streamlit==1.9.0
 streamlit_multipage==0.0.18
 streamlit_option_menu==0.3.2
+xlrd<2.0
