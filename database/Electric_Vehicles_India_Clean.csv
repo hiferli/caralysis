@@ -1,0 +1,13 @@
+,Car,Style,Range,Transmission,VehicleType,PriceRange_Low,PriceRange_High,Capacity,BootSpace,BaseModel,TopModel
+0,Tata Nexon EV,Compact SUV,312,Automatic,Electric,13.99,17.4,5,350 L,XM ,Dark XZ Plus LUX 
+1,Tata Tigor EV,Subcompact Sedan,306,Automatic,Electric,12.49,13.64,5,316 L,XE ,XZ Plus Dual Tone 
+2,Tata Nexon EV Max,Compact SUV,437,Automatic,Electric,17.74,19.24,5,350 L,XZ Plus 3.3 kW ,XZ Plus Lux 7.2 kW 
+3,MG ZS EV,Compact SUV,419,Automatic,Electric,21.99,25.88,5,448 L,Excite ,Exclusive 
+4,Hyundai Kona Electric,Compact SUV,452,Automatic,Electric,23.79,23.98,5,332 L,Premium Dual Tone ,HSE 
+5,Jaguar I-Pace,Premium Midsize Sedan,470,Automatic,Electric,1.06,1.12,5,656 L,S ,Sportback 55 
+6,Audi E-Tron GT,Premium Coupe,388,Automatic,Electric,1.8,1.8,5,405 L,Quattro ,Quattro 
+7,BYD E6,Subcompact MPV,415,Automatic,Electric,29.15,29.15,5,580 L,STD ,STD
+8,Mercedes-Benz EQC,Compact SUV,471,Automatic,Electric,1.0,1.0,5,500 L,400 4MATIC,400 4MATIC
+9,BMW iX,Premium Fullsize SUV,425,Automatic,Electric,1.16,1.16,5,500 L,xDrive 40,xDrive 40
+10,Porsche Taycan,Premium Sports Sedan,395,Automatic,Electric,1.5,1.5,4,491 L,STD ,Turbo S
+11,Audi E-Tron,Compact SUV,400,Automatic,Electric,1.01,1.19,5,660 L,Etron 50 ,Etron 55 S
